@@ -74,4 +74,5 @@ Replace the content of the file `~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce
 - Reboot your system
 
 ## Step 6 - run startx
-`startx`
+`startx` - After a few seconds you should see something like this:
+![xfce4 with i3](https://raw.githubusercontent.com/EnricoVogt/xfce4-i3-arch/master/xfce4-i3-preview.PNG)
