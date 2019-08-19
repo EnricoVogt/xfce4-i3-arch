@@ -22,7 +22,7 @@ This step is required to init the xfce-config files for your user (~/.config/xfc
 
 ## Step 4 - Modify config files to disable session saving, load i3 as WM and disable xfdesktop
 Replace the content of the file `~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-session.xml` with this:
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <channel name="xfce4-session" version="1.0">
   <property name="general" type="empty">
