@@ -1,4 +1,4 @@
-# Using i3 as WM for xfce4 ( without xfdesktop ) on arch
+# Using i3 as WM id xfce4 ( without xfdesktop ) on arch
 
 I looked up how to run i3 inside xfce4-DE. If you want to do the same, simply follow these steps.
 
